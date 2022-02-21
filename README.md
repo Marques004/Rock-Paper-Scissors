@@ -19,6 +19,6 @@ play(player, quincy, 1000, verbose=True)
 
 Click the "run" button and `main.py` will run.
 
-### Challenge Doing...
+### Challenge Accepted.
 
 
